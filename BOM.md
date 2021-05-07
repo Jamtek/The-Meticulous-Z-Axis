@@ -1,41 +1,36 @@
-Z-Axis:
+Z-Axis - $67.92 before shipping
 
-* [400mm Linear rail and lead screw kit*](https://www.banggood.com/15pcs-400mm-CNC-Parts-Optical-Axis-Guide-Bearing-Housings-Aluminum-Rail-Shaft-Support-Screws-Set-p-1136854.html?p=96231686871952017014) - Ships from China
+* [300mm Linear rail and lead screw kit](https://www.amazon.com/Mergorun-Horizontal-Bearings-coordinate-equipment/dp/B06XP7HPLQ/ref=pd_sbs_60_29?_encoding=UTF8&pd_rd_i=B06XP7HPLQ&pd_rd_r=SZ3G92NTD90MZG8VX32C&pd_rd_w=Ojo8X&pd_rd_wg=Pi8E4&psc=1&refRID=SZ3G92NTD90MZG8VX32C) - Amazon - $35.99
 
-* [300mm Linear rail and lead screw kit](https://www.amazon.com/Mergorun-Horizontal-Bearings-coordinate-equipment/dp/B06XP7HPLQ/ref=pd_sbs_60_29?_encoding=UTF8&pd_rd_i=B06XP7HPLQ&pd_rd_r=SZ3G92NTD90MZG8VX32C&pd_rd_w=Ojo8X&pd_rd_wg=Pi8E4&psc=1&refRID=SZ3G92NTD90MZG8VX32C) - Amazon
+* [XL 10 tooth Timing Pulley for lead screw](https://www.amazon.com/uxcell-Aluminum-Timing-Pulley-Flange/dp/B0747G2D4S/ref=sr_1_4?crid=PMAEFMDY2MI0&keywords=xl+pulley+8mm+bore&qid=1574213410&sprefix=XL+pulley+8mm%2Caps%2C147&sr=8-4) - Amazon - $6.69
 
-* [XL 1/4" x 9" timing belt](https://www.mcmaster.com/#6484k119/=1cjejhd)
+* [XL 30 tooth Timing Pulley for servo motor](https://www.amazon.com/dp/B00JR6MIJO/ref=twister_B07T5SDJJQ?_encoding=UTF8&th=1) - Amazon $9.75
 
-* [XL 16 tooth timing belt pulley](https://www.aliexpress.com/item/POWGE-Inch-T-type16-Teeth-XL-Timing-pulley-Bore-5-6-35-8mm-for-width-6/32819739472.html?spm=2114.search0104.3.194.1d283c2dgxEg9L&ws_ab_test=searchweb0_0,searchweb201602_1_10152_10065_10151_10344_10068_10130_10324_10342_10547_10325_10343_10546_10340_5722611_10341_10548_10698_10545_10697_10696_5722911_5722811_10084_5722711_10083_10618_10307_5711211_10059_308_100031_10103_441_10624_10623_10622_10621_10620_5711311_5722511,searchweb201603_19,ppcSwitch_5&algo_expid=a6c20919-6c78-4845-95cc-5840a9590bb9-30&algo_pvid=a6c20919-6c78-4845-95cc-5840a9590bb9&priceBeautifyAB=0)
+* [XL 1/4" x 9" timing belt](https://www.amazon.com/gp/product/B00CMI70T2/ref=crt_ewc_title_huc_2?ie=UTF8&psc=1&smid=ATVPDKIKX0DER) - Amazon - $11.99
 
-These pulleys are optional, if you want to increase axis travel speed while still using the stock motor:
-
-* [XL 10 tooth timing belt pulley - for lead screw**](https://www.automationdirect.com/adc/Shopping/Catalog/Power_Transmission_(Mechanical)/Synchronous_Drives_(Timing_Belts_-a-_Pulleys)/Timing_Pulleys_(Sprockets)/XL_(0.200_inch_Pitch)_Timing_Pulleys/APB10XL025BF-250)
-
-* [XL 15 tooth timing belt pulley** - for motor output shaft](https://www.automationdirect.com/adc/Shopping/Catalog/Power_Transmission_(Mechanical)/Synchronous_Drives_(Timing_Belts_-a-_Pulleys)/Timing_Pulleys_(Sprockets)/XL_(0.200_inch_Pitch)_Timing_Pulleys/APB15XL025BF-250) - 90 mm/min travel speed
-
-* [XL 20 tooth timing belt pulley - for motor output shaft](https://www.automationdirect.com/adc/Shopping/Catalog/Power_Transmission_(Mechanical)/Synchronous_Drives_(Timing_Belts_-a-_Pulleys)/Timing_Pulleys_(Sprockets)/XL_(0.200_inch_Pitch)_Timing_Pulleys/APB20XL025BF-250) - 120 mm/min travel speed
-
-* [XL 26 tooth timing belt pulley - for motor output shaft](https://www.automationdirect.com/adc/Shopping/Catalog/Power_Transmission_(Mechanical)/Synchronous_Drives_(Timing_Belts_-a-_Pulleys)/Timing_Pulleys_(Sprockets)/XL_(0.200_inch_Pitch)_Timing_Pulleys/APB26XL025BF-250) - 150 mm/min travel speed
-
-* [XL 30 tooth timing belt pulley - for motor output shaft](https://www.automationdirect.com/adc/Shopping/Catalog/Power_Transmission_(Mechanical)/Synchronous_Drives_(Timing_Belts_-a-_Pulleys)/Timing_Pulleys_(Sprockets)/XL_(0.200_inch_Pitch)_Timing_Pulleys/APB30XL025BF-250) - 180 mm/min travel speed
-
-Hardware:
+* [12x 10-32 Threaded inserts for softwood](https://www.amazon.com/Z-Threaded-Hex-Flush-Internal-Threads/dp/B002WC8TSY/ref=sr_1_2?keywords=10-32+Threaded+inserts+for+softwood&qid=1570688019&sr=8-2) - Amazon - $3.50
 
 * An assortment of #8 wood screws
 
 * 2x 1/4-20 x 1 1/2" hex cap screws, with nylock nut and washers
 
+* 12x 10-32 x 3/4" Pan Head Machine Screws
+
+* [16x M4 x 0.7 x 30mm Pan Head Machine Screws](https://www.homedepot.com/p/Everbilt-M4-0-7-x-30-mm-Phillips-Pan-Head-Zinc-Plated-Machine-Screw-2-Pack-802908/204282670) - linked pack is 2x per pack, order 8x for needed quantity. 
+
+Spindle Clamps:
+
+* [8x 3/8"-16 Heat set threaded inserts](https://www.mcmaster.com/93365A310/)
+
+* [4x 3/8"-16 x 3/4" Socket Cap screws](https://www.mcmaster.com/91251A622/)
+
+* [4x 3/8"-16 x 3/4" Flat Head screws](https://www.mcmaster.com/90273A439/)
+
+
 Dust Hood:
 
-* [3x 10-32 Heat-set Insert](https://www.mcmaster.com/#93365a154/=1cdxw1v)
+* [3x 10-32 Heat-set Insert](https://www.amazon.com/initeq-Threaded-Inserts-Printing-Plastic/dp/B07B9P9R3B/ref=sr_1_11?keywords=Tapered%2BHeat-Set%2BInserts&qid=1570688347&sr=8-11&th=1) - Amazon - $8.49
 
-* [3x 10-32 x 5/16" Flat head Machine screws](https://www.mcmaster.com/#90273a826/=1cdxwvt)
+* 3x 10-32 x 5/16" Flat head Machine screws
 
 * Some form of plastic glue or epoxy to help glue the chute and body of the hood together.
-
-Notes:
-
-*: This kit is actually 400mm, I just cut down the parts. You could order a 300mm long kit instead.
-
-**: The parts listed have a 1/4" bore. The lead screw is 8mm, so you will need to bore out the pulley, or find a 8mm bore pulley
